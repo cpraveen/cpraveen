@@ -10,7 +10,11 @@
 * Finite Element Method: https://github.com/cpraveen/fem
 * Parallel computing: https://github.com/cpraveen/parallel
 * Python: https://github.com/cpraveen/python
-  
+
+<!--
+<p align='center'><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cpraveen&amp;layout=donut&amp;langs_count=10&theme=transparent" alt="Language Stats"></p>
+-->
+
 <!--
 **cpraveen/cpraveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
