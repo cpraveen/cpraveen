@@ -3,9 +3,13 @@
 ### Teaching/learning
 
 * Numerical Analysis: https://github.com/cpraveen/numa
+* Numerical Linear Algebra: https://github.com/cpraveen/nla
 * Spectral Methods: https://github.com/cpraveen/chebpy
+* Numerical PDE: https://github.com/cpraveen/numpde
+* Computational Hyperbolic PDE: https://github.com/cpraveen/chpde
 * Finite Element Method: https://github.com/cpraveen/fem
 * Parallel computing: https://github.com/cpraveen/parallel
+* Python: https://github.com/cpraveen/python
   
 <!--
 **cpraveen/cpraveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
