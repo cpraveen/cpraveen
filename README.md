@@ -1,5 +1,12 @@
-## Hi there 👋
+## Numerical methods and computing 👋
 
+### Teaching/learning
+
+* Numerical Analysis: https://github.com/cpraveen/numa
+* Spectral Methods: https://github.com/cpraveen/chebpy
+* Finite Element Method: https://github.com/cpraveen/fem
+* Parallel computing: https://github.com/cpraveen/parallel
+  
 <!--
 **cpraveen/cpraveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
