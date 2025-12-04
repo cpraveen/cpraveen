@@ -14,7 +14,7 @@
 ### My other git repositories
 
 * Codeberg: https://www.codeberg.org/cpraveen
-* Bitbucket: https://www.bitbucket.org/cpraveen
+* SourceHut: https://git.sr.ht/~cpraveen
 * Gitlab: https://www.gitlab.com/cpraveen
 
 <!--
