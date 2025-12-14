@@ -13,9 +13,10 @@
 
 ### My other git repositories
 
-* Codeberg: https://www.codeberg.org/cpraveen
+* Codeberg: https://codeberg.org/cpraveen
 * SourceHut: https://git.sr.ht/~cpraveen
-* Gitlab: https://www.gitlab.com/cpraveen
+* Gitlab: https://gitlab.com/cpraveen
+* BitBucket: https://bitbucket.org/cpraveen
 
 <!--
 <p align='center'><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cpraveen&amp;layout=donut&amp;langs_count=10&theme=transparent" alt="Language Stats"></p>
