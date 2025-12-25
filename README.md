@@ -18,6 +18,8 @@
 * Gitlab: https://gitlab.com/cpraveen
 * BitBucket: https://bitbucket.org/cpraveen
 
+> Some repos are present in multiple places; if it is present on codeberg, then that is the primary one, which shoud be used for issues and PRs.
+
 <!--
 <p align='center'><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cpraveen&amp;layout=donut&amp;langs_count=10&theme=transparent" alt="Language Stats"></p>
 -->
