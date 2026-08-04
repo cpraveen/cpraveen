@@ -10,6 +10,7 @@
 * Finite Element Method: https://github.com/cpraveen/fem
 * Parallel computing: https://github.com/cpraveen/parallel
 * Python: https://github.com/cpraveen/python
+* Chapel: https://github.com/cpraveen/chapel
 
 ### My other git repositories
 
